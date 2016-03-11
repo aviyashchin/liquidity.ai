@@ -1,4 +1,4 @@
-# liquidity.ai - open source deep learning (LSTM's mostly) for financial instruments.  
+# liquidity.ai - open source deep learning (LSTM's, Theano & TensorFlow) for financial instruments. 
 
 1. The data set is huge. To read the complete file of one currency pair, it takes 10+GB. To manipulate the data, I used at peak 50+GB.
 2. I used a AWS 64GB instance with k520 GPU.
